@@ -98,14 +98,18 @@ namespace day6task1
                 {
                     tank2 = rnd1.Next(0, armysize);
                 } while (arm2tanks[tank2] != 0);
-                Console.Write("{0,-15} {1,-15}", "Танк:", army1[tank1].Name); Console.Write("{0,-15} {1,-15}", "Танк:", army2[tank2].Name);
+                Console.Write("{0,-15} {1,-15}", "Танк:", army1[tank1].Name); 
+                Console.Write("{0,-15} {1,-15}", "Танк:", army2[tank2].Name);
                 Console.WriteLine();
                 Console.BackgroundColor = ConsoleColor.Black;
-                Console.Write("{0,-24} {1,-5}","Количество снарядов: ", army1[tank1].Shells); Console.Write("{0,-22} {1,-5}","Количество снарядов: ", army2[tank2].Shells);
+                Console.Write("{0,-24} {1,-5}","Количество снарядов: ", army1[tank1].Shells); 
+                Console.Write("{0,-22} {1,-5}","Количество снарядов: ", army2[tank2].Shells);
                 Console.WriteLine();
-                Console.Write("{0,-24} {1,-5}", "Уровень брони: ", army1[tank1].Armor); Console.Write("{0,-22} {1,-5}", "Уровень брони: ", army2[tank2].Armor);
+                Console.Write("{0,-24} {1,-5}", "Уровень брони: ", army1[tank1].Armor); 
+                Console.Write("{0,-22} {1,-5}", "Уровень брони: ", army2[tank2].Armor);
                 Console.WriteLine();
-                Console.Write("{0,-24} {1,-5}", "Уровень мобильности: ", army1[tank1].Mobility); Console.Write("{0,-22} {1,-5}", "Уровень мобильности: ", army2[tank2].Mobility);
+                Console.Write("{0,-24} {1,-5}", "Уровень мобильности: ", army1[tank1].Mobility); 
+                Console.Write("{0,-22} {1,-5}", "Уровень мобильности: ", army2[tank2].Mobility);
                 Console.WriteLine();
 
                 if (army1[tank1] > army2[tank2])
