@@ -1,0 +1,16 @@
+E:\С#\Day8\day8task1\day8task1\bin\Debug\day8task1.exe.config
+E:\С#\Day8\day8task1\day8task1\obj\Debug\day8task1.csprojResolveAssemblyReference.cache
+E:\С#\Day8\day8task1\day8task1\bin\Debug\day8task1.exe
+E:\С#\Day8\day8task1\day8task1\bin\Debug\day8task1.pdb
+E:\С#\Day8\day8task1\day8task1\bin\Debug\BankSystemLib.dll
+E:\С#\Day8\day8task1\day8task1\bin\Debug\BankSystemLib.pdb
+E:\С#\Day8\day8task1\day8task1\obj\Debug\day8task1.exe
+E:\С#\Day8\day8task1\day8task1\obj\Debug\day8task1.pdb
+K:\С#\Day8\day8task1\day8task1\bin\Debug\day8task1.exe.config
+K:\С#\Day8\day8task1\day8task1\obj\Debug\day8task1.exe
+K:\С#\Day8\day8task1\day8task1\obj\Debug\day8task1.pdb
+K:\С#\Day8\day8task1\day8task1\bin\Debug\day8task1.exe
+K:\С#\Day8\day8task1\day8task1\bin\Debug\day8task1.pdb
+K:\С#\Day8\day8task1\day8task1\bin\Debug\BankSystemLib.dll
+K:\С#\Day8\day8task1\day8task1\bin\Debug\BankSystemLib.pdb
+K:\С#\Day8\day8task1\day8task1\obj\Debug\day8task1.csprojResolveAssemblyReference.cache
